@@ -1,0 +1,11 @@
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\bin\Debug\netcoreapp2.2\Number Multiplier.deps.json
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\bin\Debug\netcoreapp2.2\Number Multiplier.runtimeconfig.json
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\bin\Debug\netcoreapp2.2\Number Multiplier.runtimeconfig.dev.json
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\bin\Debug\netcoreapp2.2\Number Multiplier.dll
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\bin\Debug\netcoreapp2.2\Number Multiplier.pdb
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\obj\Debug\netcoreapp2.2\Number Multiplier.csprojAssemblyReference.cache
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\obj\Debug\netcoreapp2.2\Number Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\obj\Debug\netcoreapp2.2\Number Multiplier.AssemblyInfoInputs.cache
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\obj\Debug\netcoreapp2.2\Number Multiplier.AssemblyInfo.cs
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\obj\Debug\netcoreapp2.2\Number Multiplier.dll
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\Number Multiplier\obj\Debug\netcoreapp2.2\Number Multiplier.pdb

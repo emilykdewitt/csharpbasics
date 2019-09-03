@@ -1,0 +1,11 @@
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.deps.json
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.runtimeconfig.json
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.runtimeconfig.dev.json
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.dll
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.pdb
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.csproj.CoreCompileInputs.cache
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.AssemblyInfoInputs.cache
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.AssemblyInfo.cs
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.dll
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.pdb
+C:\Users\Emily DeWitt\source\repos\CSharp Basics\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.csprojAssemblyReference.cache
